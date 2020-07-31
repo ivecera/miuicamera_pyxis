@@ -46,9 +46,12 @@ set_permissions() {
   
   # For directories (includes files in them):
   # set_perm_recursive  <dirname>                <owner> <group> <dirpermission> <filepermission> <contexts> (default: u:object_r:system_file:s0)
+  set_perm_recursive $MODPATH/system/priv-app 0 0 0755 0644
   
   # For files (not in directories taken care of above)
   # set_perm  <filename>                         <owner> <group> <permission> <contexts> (default: u:object_r:system_file:s0)
+  set_perm $MODPATH/system/etc/default-permissions/miuicamera-permissions.xml 0 0 0644
+  set_perm $MODPATH/system/etc/permissions/privapp-permissions-miuicamera.xml 0 0 0644
 }
 
 ##########################################################################################
