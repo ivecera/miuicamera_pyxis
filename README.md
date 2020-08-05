@@ -4,3 +4,13 @@ The repository contains a Miui Camera 3.0 port for Mi 9 Lite (pyxis). The develo
 non-working or partially working features.
 
 __Currently working features:__
+
+- Photo
+- Short Video
+- Video
+- PRO
+- Filters
+
+__Change log:__
+1.0
+ - Initial version
