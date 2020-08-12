@@ -8,10 +8,16 @@ __Currently working features:__
 - Photo
 - Short Video
 - Video
-- PRO
+- PRO mode
 - Filters
+- Time / Device / Custom water marks
+- Ultrapixel mode
 
 __Change log:__
 
-1.0
+__1.1__
+- Added support for custom water marks
+- Added support 48MP back and 32MP front camera
+
+__1.0__
  - Initial version
