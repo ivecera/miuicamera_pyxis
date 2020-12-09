@@ -1,0 +1,6 @@
+persist.vendor.camera.enableAdvanceFeatures=0x3E7
+persist.vendor.camera.multicam=TRUE
+persist.vendor.camera.multicam.fpsmatch=TRUE
+persist.vendor.camera.multicam.framesync=1
+persist.vendor.camera.multicam.hwsync=TRUE
+ro.miui.notch=1
