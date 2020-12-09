@@ -1,6 +1,6 @@
-id=miuicamera_a3_pyxis
-name=MiuiCamera for Pyxis
-version=v1.1
-versionCode=4
+id=miuicamera_pyxis
+name=MiuiCamera for Mi 9 Lite
+version=v1.2 beta 1
+versionCode=13
 author=Cera
-description=Miui Camera for Pyxis
+description=Miui Camera for Mi 9 Lite (pyxis)

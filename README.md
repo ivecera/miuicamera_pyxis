@@ -12,8 +12,13 @@ __Currently working features:__
 - Filters
 - Time / Device / Custom water marks
 - Ultrapixel mode
+- Mimoji
+- VLog
 
 __Change log:__
+
+__1.2 beta 1__
+- Complete re-port from Miui 12.0.4.0
 
 __1.1__
 - Added support for custom water marks
