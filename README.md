@@ -17,7 +17,11 @@ __Currently working features:__
 
 __Change log:__
 
-__1.2 beta 1__
+__1.2beta2__
+
+- Fixed device name detection on ROMs that assign to ro.product.device value different from pyxis
+
+__1.2beta1__
 - Complete re-port from Miui 12.0.4.0
 
 __1.1__
