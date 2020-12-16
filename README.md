@@ -17,6 +17,11 @@ __Currently working features:__
 
 __Change log:__
 
+__1.2beta3__
+
+- Fixed watermark where "Mi 9 Lite" is marked as "Mi CC 9"
+- Fixed crash when adaptive brightness is disabled
+
 __1.2beta2__
 
 - Fixed device name detection on ROMs that assign to ro.product.device value different from pyxis
